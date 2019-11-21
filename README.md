@@ -1,2 +1,2 @@
 # Python-Assignment-CISCO
-Python Programming CISCO Assignments
+CISCO Python Programming Assignments
